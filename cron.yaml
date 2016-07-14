@@ -1,0 +1,4 @@
+cron:
+- description: Analytics Real-Time
+  url: /
+  schedule: every 5 minutes
